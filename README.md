@@ -1,7 +1,8 @@
 # Bonds-ChatApp
 Bonds is a chat app using socket.io ,moment, express and nodemon.
+Using Adobe Xd for the illustration.
 
-# Languages using
+# Using
 
 ![image](https://user-images.githubusercontent.com/59119335/122636418-d5f17900-d0f1-11eb-992b-312ebc9d5069.png)
 
