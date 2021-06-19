@@ -2,7 +2,7 @@
 Bonds is a chat app using socket.io ,moment, express and nodemon.<br>
 The illustration created in Adobe Xd.
 
-# Using
+# Dependencies
 
 ![image](https://user-images.githubusercontent.com/59119335/122636418-d5f17900-d0f1-11eb-992b-312ebc9d5069.png)
 
